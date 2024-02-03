@@ -8,7 +8,7 @@ Using elastic search for analytics
 
 
 ## Steps
-- clone this repository
+- clone this repository `git clone https://github.com/nitindoodhiya/tweet-analytics.git`
 - `cd tweet-analytics`
 - npm install
 - run `node csv-to-json.js` to convert `input.csv` to `output.json` file
